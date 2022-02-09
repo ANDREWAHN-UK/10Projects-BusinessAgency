@@ -14,3 +14,12 @@ html{
     font-size: 62.5%;
 }
 /* end of common styles */
+
+/* section 1 */
+.section-1{
+ width: 100%;
+ height: 100vh;
+ background: url(assets/media/dark-bg.jpeg) no-repeat;
+ background-size: cover;
+}
+/* end of section 1 */
